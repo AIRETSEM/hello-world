@@ -1,2 +1,5 @@
 # hello-world
-test
+
+Hi, humans!
+
+Change the world for FIRE!
